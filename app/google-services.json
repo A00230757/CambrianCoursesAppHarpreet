@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "428613498485",
+    "project_id": "cambriancoursesappharpreet",
+    "storage_bucket": "cambriancoursesappharpreet.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:428613498485:android:4405825501f431090daa3c",
+        "android_client_info": {
+          "package_name": "com.example.A00230757"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "428613498485-6kd2gp7e6jthin4uctll1jldb216jjd0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxiyQLsIA92VB-6c6HwmE9ETvo8lwoE_I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "428613498485-6kd2gp7e6jthin4uctll1jldb216jjd0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
